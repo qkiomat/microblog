@@ -75,7 +75,7 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="f3fd9011-8d53-438a-b5e8-a8c6b6faa39e" active="true">
+      <connection id="f3fd9011-8d53-438a-b5e8-a8c6b6faa39e" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />
